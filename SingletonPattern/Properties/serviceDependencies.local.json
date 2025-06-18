@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: DesignPatterns, Tenant: spurtreetech.com (spurtreetech.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
